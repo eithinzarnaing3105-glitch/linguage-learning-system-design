@@ -1,5 +1,6 @@
 Linguage — Online Language Learning System
 Linguage is a university system analysis and UI/UX design project for an online language learning platform. It brings courses, lessons, practice, progress tracking, and subscriptions into one place.
+
 Figma Design - https://www.figma.com/design/dRLC0BOCLYjy1IvLS35wuo/Linguage?t=RguTKNRecdfGNjvm-1 
 
 
